@@ -40,8 +40,10 @@ across healthcare, ERP, and HCM systems.
 - MS Business Analytics, GPA 4.0 — W. P. Carey School of Business, ASU
 
 ## 📌 Featured Projects
-*(Marketing automotive pipeline coming soon)*
+- Marketing Analytics Pipeline — Snowflake + dbt + Airflow + GitHub Actions + Tableau
+- FoodSafe — AI-powered ingredient risk detection using OCR, NLP, and Gradio
+- Trendy Tastes — 100K+ Yelp review analytics using NLP, NMF, and Logistic Regression
 
 ## 📫 Connect
 - LinkedIn: linkedin.com/in/ujwalajayarama
-- Email: ujwalakavyaj.gradschool@gmail.com
+- Email: ujwalakavyaj@gmail.com
