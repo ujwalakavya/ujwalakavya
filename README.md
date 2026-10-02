@@ -16,34 +16,56 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Ujwala 👋
 
-Data Engineer & Analyst with 5+ years of experience building 
-data pipelines, enterprise integrations, and analytics solutions 
-across healthcare, ERP, and HCM systems.
+Data Analytics & Engineering professional with 5+ years of experience across analytics, data pipelines, enterprise integrations, data quality, ERP/HCM modernization, and applied AI.
+
+I work across the data lifecycle - from ETL/ELT, transformation, validation, and reconciliation to BI reporting, automation, and AI-enabled workflows with experience across healthcare, supply chain, ERP/HCM, and enterprise systems.
 
 ## 🔧 Tech Stack
-**Languages:** Python, SQL, PL/SQL, Java  
-**ETL & Integration:** Dell Boomi, Pentaho, Power Automate, REST APIs  
-**Cloud & Platforms:** Azure, AWS (S3, SageMaker), Snowflake  
-**Analytics & BI:** Power BI, Tableau, SAS, Excel  
-**Databases:** Oracle SQL, MySQL, DynamoDB  
-**Tools:** Git, Jira, Agile, ITIL  
+**Data & Programming:** Python, SQL, Pandas, PySpark, PL/SQL
 
-## 💼 Currently
-- Data Engineer & Analyst at Pioneer Management Consulting (LACOE)
-- Supporting 125-agency PeopleSoft-to-CGI Advantage HCM migration
-- Building: Automotive Marketing Analytics Pipeline (Snowflake + dbt + Airflow)
+**Data Engineering:** Databricks, Snowflake, dbt, Apache Airflow, ETL/ELT, Data Modeling, Data Validation, Data Reconciliation
 
-## 🏆 Highlights
-- 100% data integrity across parallel payroll cycles (~30K records)
-- 80% reduction in ticket resolution time via GenAI supply chain chatbot
-- 11 awards at GE Healthcare including CIO recognition
-- MS Business Analytics, GPA 4.0 — W. P. Carey School of Business, ASU
+**Analytics & BI:** Power BI, DAX, Power Query, Tableau, SAS, Excel, KPI Reporting, Executive Dashboards
+
+**Enterprise & Integration:** Oracle ERP, Workday HCM, PeopleSoft, CGI Advantage HRM, Dell Boomi, Informatica, Apigee REST APIs
+
+**Cloud & Automation:** Azure, AWS S3, GCP, Power Automate, GitHub Actions CI/CD
+
+**Applied AI:** LLM/RAG, GPT-4o, Gemini, Claude, Botpress, AI Workflow Automation, Data Annotation, AI/VLM Quality Evaluation
+
+## 💼 Current & Recent Work
+**Data Analytics & Quality - Objectways Technologies**
+AI/Vision-Language Model testing, Python-based analysis, output validation, error-pattern analysis, and quality KPI reporting.
+
+**Data Analyst / Data Engineer - Pioneer Management Consulting**
+Supporting a large-scale public-sector ERP/HCM modernization involving Databricks/PySpark ETL, SQL source-to-target reconciliation, data-quality validation, Power BI reporting, workflow automation, and AI-assisted error analysis across HR/payroll migration cycles.
+
+**Enterprise Data & Integrations - GE HealthCare**
+Built and supported enterprise data integrations, analytics, migration, and automation across Oracle ERP, Workday HCM, PeopleSoft, supply chain, Azure, APIs, MFT, and middleware platforms.
+
+**Applied AI - Hanakano**
+Built and supported production LLM/RAG workflows, API integrations, structured data validation, schema guardrails, and AI-to-backend automation.
+
+## 🏆 Highlight
+- Reduced manual migration follow-up by 80% across 3,000+ load requests
+- Improved enterprise data quality and operations with 20% higher MDM accuracy and 91% faster order processing
+- Built a 155K+ event analytics pipeline using Snowflake, dbt, Airflow, Python, and automated data-quality testing
 
 ## 📌 Featured Projects
-- Marketing Analytics Pipeline — Snowflake + dbt + Airflow + GitHub Actions + Tableau
-- FoodSafe — AI-powered ingredient risk detection using OCR, NLP, and Gradio
-- Trendy Tastes — 100K+ Yelp review analytics using NLP, NMF, and Logistic Regression
+- Marketing Analytics Pipeline - Snowflake, dbt, Airflow, Python, GitHub Actions, Tableau
+- FoodSafe - AI-powered ingredient risk detection using Python, NLP, BERT, OCR/Tesseract, Gradio
+- Trendy Tastes - 100K+ Yelp review analytics using Python, Scikit-learn, NMF, Logistic Regression, NLP
+
+## 🎓 Background
+**MS Business Analytics - Arizona State University, W. P. Carey School of Business** 
+GPA: 4.0 / 4.0 
+
+**BE Computer Science - RV College of Engineering** 
+
+Microsoft Certified: Power BI Data Analyst Associate
+
+Lean Six Sigma Green Belt
 
 ## 📫 Connect
 - LinkedIn: linkedin.com/in/ujwalajayarama
-- Email: ujwalakavyaj@gmail.com
+- Email: ujwala.jayarama@gmail.com
