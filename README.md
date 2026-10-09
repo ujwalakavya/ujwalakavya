@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Ujwala 👋
 
-Data Analytics/Engineering and Supply Chain professional with 5+ years of experience across analytics, data pipelines, enterprise integrations, data quality, ERP/HCM modernization, and applied AI.
+Data Analytics & Engineering and Supply Chain professional with 5+ years of experience across analytics, data pipelines, enterprise integrations, data quality, ERP/HCM modernization, supply chain analytics, and applied AI.
 
-I work across the data lifecycle - from ETL/ELT, transformation, validation, and reconciliation to BI reporting, automation, and AI-enabled workflows with experience across healthcare, supply chain, ERP/HCM, and enterprise systems.
+I work across the data lifecycle - from ETL/ELT, transformation, validation, and reconciliation to BI reporting, automation, and AI-enabled workflows with experience across healthcare, Supply Chain, ERP/HCM, supply chain analytics, and enterprise systems.
 
 ## 🔧 Tech Stack
 **Data & Programming:** Python, SQL, Pandas, PySpark, PL/SQL
 
 **Data Engineering:** Databricks, Snowflake, dbt, Apache Airflow, ETL/ELT, Data Modeling, Data Validation, Data Reconciliation
 
-**Analytics & BI:** Power BI, DAX, Power Query, Tableau, SAS, Excel, KPI Reporting, Executive Dashboards
+**Analytics & BI:** Power BI, DAX, Power Query, Tableau, SAS, Excel, KPI Reporting, Executive Dashboards, Forecasting, Inventory Analysis, Supply Chain Analytics
 
 **Enterprise & Integration:** Oracle ERP, Workday HCM, PeopleSoft, CGI Advantage HRM, Dell Boomi, Informatica, Apigee REST APIs
 
@@ -40,15 +40,18 @@ AI/Vision-Language Model testing, Python-based analysis, output validation, erro
 **Data Analyst / Data Engineer - Pioneer Management Consulting**
 Supporting a large-scale public-sector ERP/HCM modernization involving Databricks/PySpark ETL, SQL source-to-target reconciliation, data-quality validation, Power BI reporting, workflow automation, and AI-assisted error analysis across HR/payroll migration cycles.
 
-**Enterprise Data & Integrations - GE HealthCare**
+**Enterprise Data, Integrations & Supply Chain - GE HealthCare**
 Built and supported enterprise data integrations, analytics, migration, and automation across Oracle ERP, Workday HCM, PeopleSoft, supply chain, Azure, APIs, MFT, and middleware platforms.
+
+**Supply Chain Analytics - HonorHealth** 
+Analyzed 58K+ surgical implant transactions across six hospitals to evaluate inventory utilization, vendor concentration, pricing volatility, forecasting, and replenishment opportunities.
 
 **Applied AI - Hanakano**
 Built and supported production LLM/RAG workflows, API integrations, structured data validation, schema guardrails, and AI-to-backend automation.
 
 ## 🏆 Highlight
 - Reduced manual migration follow-up by 80% across 3,000+ load requests
-- Improved enterprise data quality and operations with 20% higher MDM accuracy and 91% faster order processing
+- Improved enterprise data quality and supply-chain operations with 20% higher MDM accuracy and 91% faster order processing
 - Built a 155K+ event analytics pipeline using Snowflake, dbt, Airflow, Python, and automated data-quality testing
 
 ## 📌 Featured Projects
