@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Ujwala 👋
 
-Data Analytics & Engineering professional with 5+ years of experience across analytics, data pipelines, enterprise integrations, data quality, ERP/HCM modernization, and applied AI.
+Data Analytics/Engineering and Supply Chain professional with 5+ years of experience across analytics, data pipelines, enterprise integrations, data quality, ERP/HCM modernization, and applied AI.
 
 I work across the data lifecycle - from ETL/ELT, transformation, validation, and reconciliation to BI reporting, automation, and AI-enabled workflows with experience across healthcare, supply chain, ERP/HCM, and enterprise systems.
 
